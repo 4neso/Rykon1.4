@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: max-age=31536000, public
+Content-Type: image/png
+Date: Fri, 08 Apr 2016 17:14:57 GMT
+Etag: "b4e7a64b8b910e29d0516bdc32ec198a"
+Last-Modified: Wed, 11 Nov 2015 11:46:54 GMT
+Server: ECS (lhr/47E7)
+x-amz-id-2: ipYYVMLnGc0RYu9t/khEH4kKh4Af+pNC0F6ghI3Y/xWuwjd3elgzgzMls60R67ux/ap4q2YBI/I=
+x-amz-meta-syncfilehash: af3416f72587e59c66253c70468cfe92
+x-amz-request-id: 0B1C5D212708D0C4
+X-Cache: HIT
+Content-Length: 25751
+Connection: close

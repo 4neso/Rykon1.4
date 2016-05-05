@@ -1,0 +1,28 @@
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\obj\Debug\Rykon Server                    - Rychlost a výkon.csproj.GenerateResource.Cache
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\bin\Debug\Rykon.exe
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\bin\Debug\Rykon.pdb
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\obj\Debug\Rykon.exe
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\obj\Debug\Rykon.pdb
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\obj\Debug\Rykon Server                    - Rychlost a výkon.csprojResolveAssemblyReference.cache
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\bin\Debug\Rykon.exe.config
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\obj\Debug\RykonServer.Properties.Resources.resources
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\obj\Debug\RykonServer.FormMain.resources
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\obj\Debug\RykonServer.Forms.FrmIntro.resources
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\obj\Debug\RykonServer.Forms.FrmLanguageAdd.resources
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\obj\Debug\RykonServer.Forms.FrmSelfBrowser.resources
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\obj\Debug\RykonServer.Forms.BigMessageBox.resources
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\bin\Debug\RootDir\Control\index.html
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\bin\Debug\RootDir\Stream\bootstrap.min.css
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\bin\Debug\RootDir\Listen\player.rk
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\bin\Debug\RootDir\Stream\index.html
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\bin\Debug\RootDir\Control\Execute.rk
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\bin\Debug\RootDir\Video\Video.rk
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\bin\Debug\RootDir\Control\Login\index.html
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\bin\Debug\RootDir\Control\list.html
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\bin\Debug\RootDir\Control\Login\LICENSE
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\bin\Debug\RootDir\Control\Login\README.md
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\bin\Debug\RootDir\Control\Login\css\style.css
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\bin\Debug\RootDir\Control\Login\scss\style.scss
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\bin\Debug\Req\langs.conf
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\bin\Debug\RootDir\Listen\bg.jpg
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\bin\Debug\RootDir\Video\bg.jpg

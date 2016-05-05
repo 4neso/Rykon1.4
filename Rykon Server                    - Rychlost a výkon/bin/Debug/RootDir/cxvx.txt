@@ -1,0 +1,7 @@
+GET /phoneacquire/?country=EG&state=3&source=m_account&promo_type&contact_point=01111014041&verification_type=code_sms&activate_sms=1&pin=276352&selected_options=1&qp_id=0&prefill_score=0&_rdr HTTP/1.1
+Host: mobile.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://mobile.facebook.com/phoneacquire/?country=EG&state=2&source=m_account&promo_type&initial_contact_point&contact_point=01111014041&verification_type=code_sms&error=0&activate_sms=1&qp_id=0&prefill_score=0&_rdr
